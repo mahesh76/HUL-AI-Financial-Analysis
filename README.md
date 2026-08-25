@@ -70,6 +70,22 @@ The project applies two multiples-based valuation approaches:
 
 Sensitivity analysis demonstrates how changes in valuation multiples affect implied equity value.
 
+## Project Screenshots
+
+### Excel Financial Dashboard
+![Excel Dashboard](Excel%20Dashboard%201.png)
+
+![Excel Dashboard Analysis](Excel%20Dashboard%202.png)
+
+### Finance AI Dashboard
+![Finance AI Dashboard](Finance%20Ai%20Dashboard%201.png)
+
+![Finance AI Analysis](Finance%20Ai%20Dashboard%202.png)
+
+### AI Annual Report Q&A
+![AI Annual Report Q&A](AI%20Answer%20and%20question.png)
+
+![AI Source Grounded Answer](AI%20Answer%20and%20question%202.png)
 ## Run the Application
 
 Install dependencies:
